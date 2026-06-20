@@ -3,5 +3,5 @@
   "latest_version_name": "v1.0",
   "update_url": "https://link-download-apk-baru-lu.com/nexus.apk",
   "changelog": "Perbaikan bug",
-  "force_update": false
+  "force_update": true
 }
