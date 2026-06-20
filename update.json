@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 1,
-  "latest_version_name": "v1.0",
-  "update_url": "https://github.com/ikyYourStar/Nexus-Music/releases/download/v1.0/NexusMusic.apk",
-  "changelog": "Perbaikan bug",
+  "latest_version_code": 2,
+  "latest_version_name": "v1.1",
+  "update_url": "https://github.com/ikyYourStar/Nexus-Music/releases/download/v1.1/NexusMusic.apk",
+  "changelog": "Perbaikan bug & update quick setting sekarang anda bisa matikan musik tanpa harus masuk ke aplikasi dan fix bagian download Update jika anda ingin merasakan updatenya",
   "force_update": false
 }
