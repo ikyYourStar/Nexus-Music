@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 4,
-  "latest_version_name": "v1.3",
-  "update_url": "https://github.com/ikyYourStar/Nexus-Music/releases/download/v1.3/NexusMusic.apk",
-  "changelog": "fix bug",
+  "latest_version_code": 5,
+  "latest_version_name": "v1.4",
+  "update_url": "https://github.com/ikyYourStar/Nexus-Music/releases/download/v1.4/NexusMusic.apk",
+  "changelog": "Dengerin musik bareng & login & big update wajib hapus apk lama baru install apk baru saran export playlist jika tidak mau kehilangan lagunya",
   "force_update": false
 }
