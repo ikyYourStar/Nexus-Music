@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 6,
-  "latest_version_name": "v1.5",
-  "update_url": "https://github.com/ikyYourStar/Nexus-Music/releases/download/v1.5/NexusMusic.apk",
-  "changelog": "Fix delay & fix link sekarang ketika kamu memutar lagu tidak akan merasa delay, update jika menurut mu delay nya mengganggu",
-  "force_update": false
+  "latest_version_code": 7,
+  "latest_version_name": "v1.6",
+  "update_url": "https://github.com/ikyYourStar/Nexus-Music/releases/download/v1.6/NexusMusic.apk",
+  "changelog": "bug lagu gk bisa di play udah di fix, penambahan fitur follower, following, friend, chat, jadi anda bisa kirim chat antar user dan bisa dapat followers juga",
+  "force_update": true
 }
